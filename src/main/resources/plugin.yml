@@ -1,0 +1,4 @@
+name: StonecutterDamage
+version: '${project.version}'
+main: tsa.stonecutterdamage.StonecutterDamage
+api-version: '1.20'
